@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adoneg
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning javascript 
+- 🌱 I’m currently working on Python Project, Datascience, ML related 
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me email victoradoneg2@gmail.com 
 
